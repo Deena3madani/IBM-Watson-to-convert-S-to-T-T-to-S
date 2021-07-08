@@ -15,6 +15,11 @@ output.txt:Contains the output of transcribe.py
 output1.mp3:Contains the output of TextToSpeech.py
 
 
+The run of transcribe.py
+![output](https://user-images.githubusercontent.com/85634423/124976331-c81b7d80-e037-11eb-8be7-64a99494cff1.png)
+
+
+
 
 
 
