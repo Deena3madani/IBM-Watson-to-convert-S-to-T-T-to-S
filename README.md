@@ -16,7 +16,9 @@ output1.mp3:Contains the output of TextToSpeech.py
 
 
 The run of transcribe.py
-![output](https://user-images.githubusercontent.com/85634423/124976331-c81b7d80-e037-11eb-8be7-64a99494cff1.png)
+
+![output](https://user-images.githubusercontent.com/85634423/124976730-509a1e00-e038-11eb-854a-f2b9b14ea5bb.png)
+
 
 
 
